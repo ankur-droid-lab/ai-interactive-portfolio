@@ -1,8 +1,19 @@
 {
   "experience": [
     {
+      "company": "Konceive Development Center Pvt Ltd(Formbay)",
+      "years": "2018–2026",
+      "details": [
+        "Senior Frontend Developer",
+        "React development, HTML/CSS/JS development",
+        "CMS systems architecture",
+        "Client interaction & requirements gathering",
+        "Code deployment & DevOps"
+      ]
+    },
+    {
       "company": "Seraphic Infosolutions Pvt Ltd",
-      "years": "2016–Present",
+      "years": "2016–2018",
       "details": [
         "Senior Frontend Developer",
         "React UI development",
@@ -43,6 +54,7 @@
     "Styled Components"
   ],
   "tools": [
+    "AI Tools (ChatGPT, Midjourney, Replit)",
     "Figma",
     "Zeplin",
     "Adobe XD",
@@ -52,6 +64,7 @@
     "Chrome DevTools"
   ],
   "projects": [
+    "Formbay - React UI development for multiple clients",
     "Docu-tools Web App (Austria) - Enterprise React UI",
     "Post.at - PSD to HTML conversion",
     "Cyzerg - Bootstrap framework migration",
