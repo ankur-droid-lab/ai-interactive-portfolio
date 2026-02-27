@@ -1,0 +1,66 @@
+{
+  "experience": [
+    {
+      "company": "Seraphic Infosolutions Pvt Ltd",
+      "years": "2016–Present",
+      "details": [
+        "Senior Frontend Developer",
+        "React UI development",
+        "CMS systems architecture",
+        "Client interaction & requirements gathering",
+        "Code deployment & DevOps"
+      ]
+    },
+    {
+      "company": "Maven Softwares",
+      "years": "2015–2016",
+      "details": [
+        "WordPress development",
+        "PSD to HTML conversion",
+        "Bootstrap framework implementation"
+      ]
+    },
+    {
+      "company": "Thirty Four Soft Solutions",
+      "years": "2014–2015",
+      "details": [
+        "PSD to HTML markup",
+        "LESS preprocessing",
+        "UI Development & styling"
+      ]
+    }
+  ],
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "SCSS",
+    "LESS",
+    "JavaScript",
+    "React.js",
+    "TypeScript",
+    "Bootstrap",
+    "WordPress",
+    "Styled Components"
+  ],
+  "tools": [
+    "Figma",
+    "Zeplin",
+    "Adobe XD",
+    "GitLab",
+    "Bitbucket",
+    "Jira",
+    "Chrome DevTools"
+  ],
+  "projects": [
+    "Docu-tools Web App (Austria) - Enterprise React UI",
+    "Post.at - PSD to HTML conversion",
+    "Cyzerg - Bootstrap framework migration",
+    "Biz Synaptics - WordPress implementation",
+    "Scentsy - HTML conversion project",
+    "EBS Recycling - HTML implementation"
+  ],
+  "education": [
+    "B.Tech in Computer Science – YIET",
+    "Diploma in Computer Science – MSIP"
+  ]
+}

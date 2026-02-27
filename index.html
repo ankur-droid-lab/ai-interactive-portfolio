@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ankur Saini - AI-powered interactive portfolio. Chat with a digital version of Ankur, Senior Frontend Architect with 11+ years of experience.">
+    <title>Ankur Saini | AI Interactive Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Animated gradient canvas background -->
+    <canvas id="gradient-bg"></canvas>
+    
+    <!-- Noise overlay -->
+    <div id="noise-overlay"></div>
+    
+    <!-- Custom cursor -->
+    <div id="custom-cursor"></div>
+
+    <main>
+        <!-- Intro Scene -->
+        <section id="intro" class="intro-scene">
+            <h1 class="intro-title" data-text="AN KUR SAI NI">AN KUR SAI NI</h1>
+            <p class="intro-subtitle">Hi. I'm Ankur's AI.<br>Ask me anything about his experience.</p>
+        </section>
+
+        <!-- Chat Section -->
+        <section id="chat" class="chat-section hidden">
+            <div class="chat-wrapper">
+                <div class="chat-container glass">
+                    <div class="messages" id="messages"></div>
+                    <form id="chat-form" class="chat-form">
+                        <input type="text" id="chat-input" placeholder="Ask me something..." autocomplete="off" />
+                        <button type="submit" class="btn send-btn">Send</button>
+                    </form>
+                </div>
+                <div class="quick-questions">
+                    <button data-q="What projects has he built?">What projects has he built?</button>
+                    <button data-q="What technologies does he specialize in?">What technologies does he specialize in?</button>
+                    <button data-q="Tell me about his architecture experience.">Tell me about his architecture experience.</button>
+                    <button data-q="How many years of experience?">How many years of experience?</button>
+                </div>
+            </div>
+            <div class="floating-tags"></div>
+        </section>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
